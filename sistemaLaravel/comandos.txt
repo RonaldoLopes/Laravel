@@ -1,0 +1,8 @@
+php artisan app:name sistemaLaravel ->nome do projeto/namespace
+php artisan make:model ->nomeModel
+php artisan make:controller nomeController
+php artisan make:request -> usado para envio de formulários de requisicao
+lavarel collective
+
+php_file
+composer update
